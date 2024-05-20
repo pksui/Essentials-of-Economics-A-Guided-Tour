@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Essentials of Economics a Guided Tour"
+  author: "Norah Jones"
+  date: "2024/5/17"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - 衡量一个国家的收入.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
+
+

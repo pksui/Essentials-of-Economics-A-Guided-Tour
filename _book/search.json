@@ -1,0 +1,59 @@
+[
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\na = 1\nb = 2\nprint(a+b)\n\n3\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "Measuring a  Nation’s Income.html",
+    "href": "Measuring a  Nation’s Income.html",
+    "title": "2  衡量一个国家的收入",
+    "section": "",
+    "text": "2.1 GDP的组成部分",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>衡量一个国家的收入</span>"
+    ]
+  },
+  {
+    "objectID": "Measuring a  Nation’s Income.html#gdp的组成部分",
+    "href": "Measuring a  Nation’s Income.html#gdp的组成部分",
+    "title": "2  衡量一个国家的收入",
+    "section": "",
+    "text": "2.1.1 政府购买",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>衡量一个国家的收入</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "衡量一个国家的收入.html#gdp的组成部分",
+    "href": "衡量一个国家的收入.html#gdp的组成部分",
+    "title": "2  衡量一个国家的收入",
+    "section": "2.1 GDP的组成部分",
+    "text": "2.1 GDP的组成部分\n\n2.1.1 政府购买\n政府购买是衡量被中央政府、省政府及当地政府花费的产品和服务的价值。包含政府工作人员的工资和公共服务的花费。美国国家收入账户称其为国家消费与总投资，本教程把它简称为政府购买。\n如果政府付钱给军人或者公立学校老师薪水，这部分钱是归结于政府购买的一部分。但是，如果政府付给国企退休工人养老金或者刚刚失业的人保障金，这部分钱算不算是政府购买的一部分呢？我们可以思考一下，政府花了这部分钱，并没有得到任何物品，也没有得到任何服务（老人和失业人并没有说领完这部分钱就给政府干活），所以按照GDP的定义，这不算是政府购买的一部分。这里有一个专有名词来描述这部分钱，叫作政府的转移支付。"
+  }
+]
